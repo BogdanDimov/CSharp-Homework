@@ -1,0 +1,5 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

@@ -1,0 +1,5 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\BiggestOf3\bin\Debug\BiggestOf3.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\BiggestOf3\bin\Debug\BiggestOf3.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\BiggestOf3\bin\Debug\BiggestOf3.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\BiggestOf3\obj\Debug\BiggestOf3.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\BiggestOf3\obj\Debug\BiggestOf3.pdb

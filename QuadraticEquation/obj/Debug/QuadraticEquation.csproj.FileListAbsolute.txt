@@ -1,0 +1,6 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\QuadraticEquation\obj\Debug\QuadraticEquation.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\QuadraticEquation\obj\Debug\QuadraticEquation.csprojResolveAssemblyReference.cache

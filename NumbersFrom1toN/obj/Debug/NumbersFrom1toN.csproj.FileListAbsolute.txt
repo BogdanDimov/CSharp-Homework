@@ -1,0 +1,6 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\NumbersFrom1toN\bin\Debug\NumbersFrom1toN.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\NumbersFrom1toN\bin\Debug\NumbersFrom1toN.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\NumbersFrom1toN\bin\Debug\NumbersFrom1toN.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\NumbersFrom1toN\obj\Debug\NumbersFrom1toN.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\NumbersFrom1toN\obj\Debug\NumbersFrom1toN.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\NumbersFrom1toN\obj\Debug\NumbersFrom1toN.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\IntDoubleString\bin\Debug\IntDoubleString.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\IntDoubleString\bin\Debug\IntDoubleString.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\IntDoubleString\bin\Debug\IntDoubleString.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\IntDoubleString\obj\Debug\IntDoubleString.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\IntDoubleString\obj\Debug\IntDoubleString.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\IntDoubleString\obj\Debug\IntDoubleString.pdb

@@ -1,0 +1,5 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FourDigits\bin\Debug\FourDigits.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FourDigits\bin\Debug\FourDigits.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FourDigits\bin\Debug\FourDigits.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FourDigits\obj\Debug\FourDigits.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FourDigits\obj\Debug\FourDigits.pdb

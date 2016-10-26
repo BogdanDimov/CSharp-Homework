@@ -1,0 +1,6 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\BitSwap\bin\Debug\BitSwap.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\BitSwap\bin\Debug\BitSwap.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\BitSwap\bin\Debug\BitSwap.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\BitSwap\obj\Debug\BitSwap.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\BitSwap\obj\Debug\BitSwap.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\BitSwap\obj\Debug\BitSwap.pdb

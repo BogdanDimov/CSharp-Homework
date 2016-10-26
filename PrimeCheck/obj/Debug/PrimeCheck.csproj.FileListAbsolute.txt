@@ -1,0 +1,12 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\PrimeCheck\bin\Debug\PrimeCheck.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\PrimeCheck\bin\Debug\PrimeCheck.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\PrimeCheck\bin\Debug\PrimeCheck.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\PrimeCheck\obj\Debug\PrimeCheck.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\PrimeCheck\obj\Debug\PrimeCheck.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\PrimeCheck\obj\Debug\PrimeCheck.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\PrimeCheck\bin\Debug\PrimeCheck.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\PrimeCheck\bin\Debug\PrimeCheck.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\PrimeCheck\bin\Debug\PrimeCheck.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\PrimeCheck\obj\Debug\PrimeCheck.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\PrimeCheck\obj\Debug\PrimeCheck.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\PrimeCheck\obj\Debug\PrimeCheck.pdb

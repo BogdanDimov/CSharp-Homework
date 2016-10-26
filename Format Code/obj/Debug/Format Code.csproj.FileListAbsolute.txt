@@ -1,0 +1,5 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\10. Format Code\bin\Debug\_10.Format_Code.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\10. Format Code\bin\Debug\_10.Format_Code.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\10. Format Code\bin\Debug\_10.Format_Code.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\10. Format Code\obj\Debug\_10.Format_Code.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\10. Format Code\obj\Debug\_10.Format_Code.pdb

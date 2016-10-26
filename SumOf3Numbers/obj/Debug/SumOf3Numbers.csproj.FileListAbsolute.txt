@@ -1,0 +1,6 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\SumOf3Numbers\bin\Debug\SumOf3Numbers.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\SumOf3Numbers\obj\Debug\SumOf3Numbers.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\SumOf3Numbers\obj\Debug\SumOf3Numbers.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\SumOf3Numbers\obj\Debug\SumOf3Numbers.pdb
