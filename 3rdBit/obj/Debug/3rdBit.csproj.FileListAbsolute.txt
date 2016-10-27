@@ -4,3 +4,6 @@ D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\3rdBit\bin\Debug
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\3rdBit\obj\Debug\3rdBit.csprojResolveAssemblyReference.cache
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\3rdBit\obj\Debug\3rdBit.exe
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\3rdBit\obj\Debug\3rdBit.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\3rdBit\bin\Debug\3rdBit.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\3rdBit\obj\Debug\3rdBit.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\3rdBit\obj\Debug\3rdBit.pdb
