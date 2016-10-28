@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMSAOfNNumbers", "MMSAOfNNu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintADeck", "PrintADeck\PrintADeck.csproj", "{D51DE0C5-154A-4CE6-9C61-7E338DDDF308}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate!", "Calculate!\Calculate!.csproj", "{2D5719F9-A7D0-43A9-A517-90741F01BD42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{D51DE0C5-154A-4CE6-9C61-7E338DDDF308}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D51DE0C5-154A-4CE6-9C61-7E338DDDF308}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D51DE0C5-154A-4CE6-9C61-7E338DDDF308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D5719F9-A7D0-43A9-A517-90741F01BD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5719F9-A7D0-43A9-A517-90741F01BD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5719F9-A7D0-43A9-A517-90741F01BD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5719F9-A7D0-43A9-A517-90741F01BD42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
