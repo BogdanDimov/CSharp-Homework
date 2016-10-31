@@ -3,3 +3,8 @@ D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\Rectangles\bin\D
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\Rectangles\bin\Debug\Rectangles.pdb
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\Rectangles\obj\Debug\Rectangles.exe
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\Rectangles\obj\Debug\Rectangles.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Rectangles\bin\Debug\Rectangles.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Rectangles\bin\Debug\Rectangles.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Rectangles\bin\Debug\Rectangles.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Rectangles\obj\Debug\Rectangles.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Rectangles\obj\Debug\Rectangles.pdb

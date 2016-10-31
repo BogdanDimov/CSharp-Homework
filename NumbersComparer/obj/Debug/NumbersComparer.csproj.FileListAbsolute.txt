@@ -3,3 +3,8 @@ D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\NumbersComparer\
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\NumbersComparer\bin\Debug\NumbersComparer.pdb
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\NumbersComparer\obj\Debug\NumbersComparer.exe
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\NumbersComparer\obj\Debug\NumbersComparer.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\NumbersComparer\bin\Debug\NumbersComparer.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\NumbersComparer\bin\Debug\NumbersComparer.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\NumbersComparer\bin\Debug\NumbersComparer.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\NumbersComparer\obj\Debug\NumbersComparer.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\NumbersComparer\obj\Debug\NumbersComparer.pdb

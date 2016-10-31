@@ -3,3 +3,8 @@ D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\07. First and
 D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\07. First and Last Name\obj\Debug\_07.First_and_Last_Name.pdb
 D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\07. First and Last Name\bin\Debug\_07.First_and_Last_Name.exe
 D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\07. First and Last Name\bin\Debug\_07.First_and_Last_Name.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\First and Last Name\bin\Debug\_07.First_and_Last_Name.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\First and Last Name\bin\Debug\_07.First_and_Last_Name.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\First and Last Name\bin\Debug\_07.First_and_Last_Name.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\First and Last Name\obj\Debug\_07.First_and_Last_Name.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\First and Last Name\obj\Debug\_07.First_and_Last_Name.pdb

@@ -9,3 +9,9 @@ D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\Age\bin\Debug\Co
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\Age\obj\Debug\Age.csprojResolveAssemblyReference.cache
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\Age\obj\Debug\ConsoleApplication1.exe
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\Age\obj\Debug\ConsoleApplication1.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Age\bin\Debug\ConsoleApplication1.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Age\bin\Debug\ConsoleApplication1.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Age\bin\Debug\ConsoleApplication1.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Age\obj\Debug\Age.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Age\obj\Debug\ConsoleApplication1.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Age\obj\Debug\ConsoleApplication1.pdb

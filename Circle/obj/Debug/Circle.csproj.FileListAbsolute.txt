@@ -3,3 +3,8 @@ D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\Circle\bin\Debug
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\Circle\bin\Debug\Circle.pdb
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\Circle\obj\Debug\Circle.exe
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\Circle\obj\Debug\Circle.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Circle\bin\Debug\Circle.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Circle\bin\Debug\Circle.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Circle\bin\Debug\Circle.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Circle\obj\Debug\Circle.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Circle\obj\Debug\Circle.pdb

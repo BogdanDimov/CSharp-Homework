@@ -1,0 +1,6 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CalculateAgain\bin\Debug\CalculateAgain.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CalculateAgain\bin\Debug\CalculateAgain.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CalculateAgain\bin\Debug\CalculateAgain.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CalculateAgain\obj\Debug\CalculateAgain.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CalculateAgain\obj\Debug\CalculateAgain.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CalculateAgain\obj\Debug\CalculateAgain.pdb

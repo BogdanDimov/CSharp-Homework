@@ -10,3 +10,9 @@ D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\PrimeCheck\bin\D
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\PrimeCheck\obj\Debug\PrimeCheck.csprojResolveAssemblyReference.cache
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\PrimeCheck\obj\Debug\PrimeCheck.exe
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\PrimeCheck\obj\Debug\PrimeCheck.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\PrimeCheck\bin\Debug\PrimeCheck.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\PrimeCheck\bin\Debug\PrimeCheck.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\PrimeCheck\bin\Debug\PrimeCheck.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\PrimeCheck\obj\Debug\PrimeCheck.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\PrimeCheck\obj\Debug\PrimeCheck.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\PrimeCheck\obj\Debug\PrimeCheck.pdb

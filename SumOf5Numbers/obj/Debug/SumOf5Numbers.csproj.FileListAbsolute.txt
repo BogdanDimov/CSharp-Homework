@@ -4,3 +4,9 @@ D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\SumOf5Numbers\bi
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\SumOf5Numbers\obj\Debug\SumOf5Numbers.csprojResolveAssemblyReference.cache
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\SumOf5Numbers\obj\Debug\SumOf5Numbers.exe
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\SumOf5Numbers\obj\Debug\SumOf5Numbers.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\SumOf5Numbers\bin\Debug\SumOf5Numbers.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\SumOf5Numbers\obj\Debug\SumOf5Numbers.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\SumOf5Numbers\obj\Debug\SumOf5Numbers.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\SumOf5Numbers\obj\Debug\SumOf5Numbers.pdb

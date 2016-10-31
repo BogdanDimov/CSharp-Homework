@@ -3,3 +3,8 @@ D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ThirdDigit\bi
 D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ThirdDigit\bin\Debug\ThirdDigit.pdb
 D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ThirdDigit\obj\Debug\ThirdDigit.exe
 D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ThirdDigit\obj\Debug\ThirdDigit.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\ThirdDigit\bin\Debug\ThirdDigit.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\ThirdDigit\bin\Debug\ThirdDigit.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\ThirdDigit\bin\Debug\ThirdDigit.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\ThirdDigit\obj\Debug\ThirdDigit.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\ThirdDigit\obj\Debug\ThirdDigit.pdb

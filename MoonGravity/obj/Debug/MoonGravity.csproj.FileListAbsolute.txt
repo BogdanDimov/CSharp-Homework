@@ -3,3 +3,8 @@ D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MoonGravity\b
 D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MoonGravity\bin\Debug\MoonGravity.pdb
 D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MoonGravity\obj\Debug\MoonGravity.exe
 D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MoonGravity\obj\Debug\MoonGravity.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\MoonGravity\bin\Debug\MoonGravity.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\MoonGravity\bin\Debug\MoonGravity.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\MoonGravity\bin\Debug\MoonGravity.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\MoonGravity\obj\Debug\MoonGravity.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\MoonGravity\obj\Debug\MoonGravity.pdb

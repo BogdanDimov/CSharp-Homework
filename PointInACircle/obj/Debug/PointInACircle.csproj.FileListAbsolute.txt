@@ -3,3 +3,8 @@ D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\PointInACircl
 D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\PointInACircle\bin\Debug\PointInACircle.pdb
 D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\PointInACircle\obj\Debug\PointInACircle.exe
 D:\bogda\Documents\Visual Studio 2013\Projects\ConsoleApplication1\PointInACircle\obj\Debug\PointInACircle.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\PointInACircle\bin\Debug\PointInACircle.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\PointInACircle\bin\Debug\PointInACircle.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\PointInACircle\bin\Debug\PointInACircle.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\PointInACircle\obj\Debug\PointInACircle.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\PointInACircle\obj\Debug\PointInACircle.pdb

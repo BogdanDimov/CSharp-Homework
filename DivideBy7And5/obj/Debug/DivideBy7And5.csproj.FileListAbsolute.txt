@@ -8,3 +8,8 @@ D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\DivideBy7And5\bi
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\DivideBy7And5\bin\Debug\DivideBy7And5.pdb
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\DivideBy7And5\obj\Debug\DivideBy7And5.exe
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\DivideBy7And5\obj\Debug\DivideBy7And5.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\DivideBy7And5\bin\Debug\DivideBy7And5.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\DivideBy7And5\bin\Debug\DivideBy7And5.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\DivideBy7And5\obj\Debug\DivideBy7And5.pdb

@@ -4,3 +4,9 @@ D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\CompanyInfo\bin\
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\CompanyInfo\obj\Debug\CompanyInfo.exe
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\CompanyInfo\obj\Debug\CompanyInfo.pdb
 D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homeworks\CompanyInfo\obj\Debug\CompanyInfo.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CompanyInfo\bin\Debug\CompanyInfo.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CompanyInfo\bin\Debug\CompanyInfo.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CompanyInfo\bin\Debug\CompanyInfo.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CompanyInfo\obj\Debug\CompanyInfo.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CompanyInfo\obj\Debug\CompanyInfo.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CompanyInfo\obj\Debug\CompanyInfo.pdb
