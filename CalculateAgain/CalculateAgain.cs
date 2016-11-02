@@ -12,14 +12,14 @@ namespace CalculateAgain
 
             BigInteger factorial_n = 1, factorial_k = 1;
 
-            for (int i = 1; i <= N; i++)
+            for (int i = 1; i <= N; i++) // use only 1 loop
             {
                 factorial_n *= i;
-            }
 
-            for (int i = 1; i <= K; i++)
-            {
-                factorial_k *= i;
+                if (i <= K)
+                {
+                    factorial_k *= i;
+                }
             }
 
             Console.WriteLine(factorial_n / factorial_k);
