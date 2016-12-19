@@ -1,6 +1,0 @@
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CatalanNumbers\bin\Debug\CatalanNumbers.exe.config
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CatalanNumbers\bin\Debug\CatalanNumbers.exe
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CatalanNumbers\bin\Debug\CatalanNumbers.pdb
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CatalanNumbers\obj\Debug\CatalanNumbers.csprojResolveAssemblyReference.cache
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CatalanNumbers\obj\Debug\CatalanNumbers.exe
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\CatalanNumbers\obj\Debug\CatalanNumbers.pdb

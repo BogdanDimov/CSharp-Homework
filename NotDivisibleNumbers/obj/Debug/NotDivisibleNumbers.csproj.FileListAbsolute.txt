@@ -1,5 +1,0 @@
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.exe.config
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.exe
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.pdb
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.exe
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.pdb

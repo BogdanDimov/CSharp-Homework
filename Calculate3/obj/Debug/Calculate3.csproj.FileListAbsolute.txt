@@ -1,6 +1,0 @@
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Calculate3\bin\Debug\Calculate3.exe.config
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Calculate3\bin\Debug\Calculate3.exe
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Calculate3\bin\Debug\Calculate3.pdb
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Calculate3\obj\Debug\Calculate3.csprojResolveAssemblyReference.cache
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Calculate3\obj\Debug\Calculate3.exe
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\Calculate3\obj\Debug\Calculate3.pdb

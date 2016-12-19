@@ -1,5 +1,0 @@
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\NumsFrom1ToN\bin\Debug\NumsFrom1ToN.exe.config
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\NumsFrom1ToN\bin\Debug\NumsFrom1ToN.exe
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\NumsFrom1ToN\bin\Debug\NumsFrom1ToN.pdb
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\NumsFrom1ToN\obj\Debug\NumsFrom1ToN.exe
-D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework\NumsFrom1ToN\obj\Debug\NumsFrom1ToN.pdb
